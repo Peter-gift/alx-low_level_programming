@@ -2,7 +2,7 @@
 
 /**
 * print_to_98 - Prints all natural numbers from input to 98,
-  in order, seperated by a comma, followed by a space.
+* in order, seperated by a comma, followed by a space.
 * @n: the number to begin counting at
 */
 
