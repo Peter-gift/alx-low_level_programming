@@ -4,7 +4,7 @@
 /**
  * print_numbers - function that prints all number from
  * 0 to 9
- *
+ * @n: number to print
  * Return: returns nothing
  */
 
