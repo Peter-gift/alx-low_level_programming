@@ -36,7 +36,7 @@ char *_strcopy(char *dest, char *src)
 
 	dest[index] = '\0';
 
-	return (dest); 
+	return (dest);
 }
 /**
  * new_dog - Creates a new dog.
